@@ -1,0 +1,3 @@
+com\tthz\ad\ZuulGatewayApplication.class
+com\tthz\ad\filter\PreRequestFilter.class
+com\tthz\ad\filter\PostRequestFilter.class
